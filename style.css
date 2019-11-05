@@ -19,12 +19,12 @@ figcaption {
 }
 body {
   font-family: "News Cycle", sans-serif;
-  font-size: 11pt;
+  font-size: 14pt;
   background-color: #222224;
   color: lightgray;
 }
 main > p::first-letter {
-  font-size: 16pt;
+  font-size: 18pt;
 }
 main {
   width: 80%;
@@ -45,7 +45,7 @@ p {
   text-indent: 2em;
 }
 article p::first-letter {
-  font-size: 16pt;
+  font-size: 18pt;
 }
 header {
   text-align: center;
@@ -63,7 +63,7 @@ header blockquote {
 blockquote {
   font-family: "Dancing Script", cursive;
   font-style: italic;
-  font-size: 16pt;
+  font-size: 18pt;
   background-color: #222224;
 }
 #assinatura {
